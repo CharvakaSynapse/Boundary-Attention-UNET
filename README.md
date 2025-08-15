@@ -1,4 +1,4 @@
-# Boundary-Aware Attention U-Net (BaAtt-U-Net)
+# Boundary-Aware Attention U-Net 
 
 *A lightweight add-on for U-Net that injects fixed Sobel-edge priors into the
 skip-connection attention gates, boosting retinal-vessel topology metrics with
