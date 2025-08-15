@@ -53,7 +53,7 @@ See **`models/ba_att_gate.py`** for a minimal reference implementation.
 ## 📈 Qualitative Result
 
 <p align="center">
-  <img src="segmentation.png" alt="Retinal vessel segmentation result — Boundary-Attention-aware-U-Net" width="640"/>
+  <img src="segemntation.png" alt="Retinal vessel segmentation result — Boundary-Attention-aware-U-Net" width="640"/>
 </p>
 
 
