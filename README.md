@@ -38,7 +38,7 @@ See **`models/ba_att_gate.py`** for a minimal reference implementation.
 
 ---
 
-## 📊 Results (on CHASE_DB1 retinal vessels)
+## 📊 Results (on DRIVE retinal vessels)
 
 | Metric              | U-Net Baseline | **BaAtt-U-Net** | Δ |
 |---------------------|:--------------:|:---------------:|--:|
