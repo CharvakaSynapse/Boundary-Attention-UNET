@@ -63,7 +63,6 @@ See **`models/ba_att_gate.py`** for a minimal reference implementation.
 @inproceedings{bandyopadhyay2025baattunet,
   title     = {Boundary-Aware Attention U-Net for Retinal Blood Vessel Segmentation},
   author    = {Subhasish Bandyopadhyay},
-  booktitle = {Proceedings of MICCAI},
   year      = {2025}
 }
 
